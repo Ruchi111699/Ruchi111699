@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ruchi111699
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .Machine learning ,NLP,ML in Trading
+- 💞️ I’m looking to collaborate on . Data Science Projects
+- 📫 How to reach me .ruchimanke1999@gmail.com..
+- ⚡ Fun fact I Think i am curious
+- Catch my Resume at 
 
-<!---
-Ruchi111699/Ruchi111699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+Connect with me:
